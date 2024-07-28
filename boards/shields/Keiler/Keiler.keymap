@@ -123,7 +123,7 @@
             &kp SEMI    &kp N4      &kp N5      &kp N6     &kp EQUAL            &bt BT_SEL &kp LGUI   &kp LALT   &kp LCTRL  &kp LSHFT 
         //├──────────┼──────────┼──────────┼──────────┼──────────┤          ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│     -    │    1     │    2     │    3     │    \     │          │          │          │          │          │          │
-            &kp TILDE   kp N1      &kp N2      &kp N3  &kp BSLH                &bt BT_SEL  &none       &none      &none      &none
+            &kp TILDE   &kp N1      &kp N2      &kp N3  &kp BSLH               &bt BT_SEL  &none       &none      &none      &none
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤          ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                     &kp DOT    &kp N0   &kp MINUS               &none      &none      &none
         //                      ╰──────────┴──────────┴──────────╯          ╰──────────┴──────────┴──────────╯
