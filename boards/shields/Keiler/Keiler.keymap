@@ -108,7 +108,7 @@
             &kp EQUAL  &kp LBKT   &kp RBKT   &kp PRCNT  &kp BSLH                 &none         &none      &none      &none      &none
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤          ├──────────┼──────────┼──────────┴──────────┴──────────╯
         //                      │    -_    │    #     │    @     │          │          │          │          │ 
-                                  mp UNDER MINUS &kp HASH   &kp AT            &none         &none      &none 
+                                  &kp UNDER MINUS &kp HASH   &kp AT            &none         &none      &none 
         //                      ╰──────────┴──────────┴──────────╯          ╰──────────┴──────────┴──────────╯
             >;
         };
